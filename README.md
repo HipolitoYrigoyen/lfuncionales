@@ -4,7 +4,6 @@ Los **lenguajes funcionales** se centran en el uso de funciones y evitan el camb
 
 ![overlay](https://github.com/user-attachments/assets/bcce5427-c874-4cb3-a6a3-f63a0a72db5c)
 
-
 ## 🧩 Conceptos Clave
 
 - **Funciones como Ciudadanos de Primera Clase:** Las funciones pueden ser tratadas como valores.
