@@ -2,7 +2,8 @@
 
 Los **lenguajes funcionales** se centran en el uso de funciones y evitan el cambio de estado y efectos secundarios. Este enfoque contrasta con los paradigmas imperativos y se basa en conceptos clave:
 
-![Uploading image.png…]()
+![overlay](https://github.com/user-attachments/assets/bcce5427-c874-4cb3-a6a3-f63a0a72db5c)
+
 
 ## 🧩 Conceptos Clave
 
@@ -25,11 +26,3 @@ Los **lenguajes funcionales** se centran en el uso de funciones y evitan el camb
 - **Razonamiento Simplificado:** Funciones puras y datos inmutables reducen errores y facilitan la depuración.
 - **Facilita la Concurrencia:** La ausencia de efectos secundarios mejora la programación concurrente.
 - **Reusabilidad del Código:** La composición de funciones promueve soluciones modulares y reutilizables.
-
-## 📚 Recursos
-
-- [Haskell](https://wiki.haskell.org/Haskell)
-- [Erlang](https://www.erlang.org/)
-- [Scala](https://docs.scala-lang.org/)
-- [Elixir](https://elixir-lang.org/getting-started.html)
-- [F#](https://docs.microsoft.com/en-us/dotnet/fsharp/)
